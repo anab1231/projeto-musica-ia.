@@ -34,4 +34,4 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav√
 
 ---
 
-Desenvolvido por [Seu Nome](ana beatris alves da silva)
+Desenvolvido por [[ana beatris alves da silva]](https://github.com/[https://github.com/anab1231/projeto-musica-ia./edit/main/README.md])
